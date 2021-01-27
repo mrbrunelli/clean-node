@@ -1,0 +1,23 @@
+{
+  "name": "clean-node",
+  "version": "1.0.0",
+  "description": "My studies of Clean Architecture with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbrunelli/clean-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbrunelli/clean-node/issues"
+  },
+  "homepage": "https://github.com/mrbrunelli/clean-node#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
